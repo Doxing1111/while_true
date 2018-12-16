@@ -1,1 +1,1 @@
-"# while_true" 
+# while_true 練習
